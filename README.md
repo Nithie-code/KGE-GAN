@@ -80,7 +80,7 @@ The run.py file contains the main function, which parses arguments, reads data, 
 #
 -use the pretrained model
  Requirement: pip install --upgrade transformers==4.2
--Learn paper embeddings:Data can be downloaded at: dblp website at:https://dblp.uni-trier.de/  and https://www.aminer.cn/citation
+-Learn paper embeddings:Data can be downloaded at 
  
 
 
