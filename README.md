@@ -74,3 +74,13 @@ The python libarary is organized around 3 objects:
  - KGEModel (model.py): calculate triple score and provide train/test API
 
 The run.py file contains the main function, which parses arguments, reads data, initilize the model and provides the training loop.
+
+
+#2.SPECTER  Embedding
+#
+
+#.3 IRGAN model
+#
+
+
+
