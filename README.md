@@ -82,7 +82,7 @@ The run.py file contains the main function, which parses arguments, reads data, 
  Requirement: pip install --upgrade transformers==4.2
 
 
-#.3 IRGAN model
+#3. IRGAN model
 #
 
 
