@@ -69,7 +69,8 @@ The run.py file contains the main function, which parses arguments, reads data, 
 -  For more details how to use  the pretrained model find readme file in SPECTER/Codes 
  
 #**3. IRGAN Model**
-#
+- The Paper embeddings learned by  prior models are combined into " paper_embeddings_test/train.txt" and  input to GAN  to learn optimal representations
+- We have employed  G’s score function to calculate the final score as depicted by the main figure  in our paper.  Howover the discriminator's score has similar efficiency
 
 
 
