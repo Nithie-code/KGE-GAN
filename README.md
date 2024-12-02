@@ -74,7 +74,7 @@ The run.py file contains the main function, which parses arguments, reads data, 
 - For more about paper  recommendations, find readme in IRGAN folder
 
 **Vizualizations**
-- *LearningRate.ipynb*:
+- *LearningRate.ipynb*: depicts the step size at each iteration while moving toward a minimum of the loss function
 - *epoch.ipynb*:
 - *recall.ipynb*:
 - *FineTune_beta.ipynb*:
