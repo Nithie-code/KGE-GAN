@@ -66,6 +66,7 @@ The run.py file contains the main function, which parses arguments, reads data, 
  Requirement: pip install --upgrade transformers==4.2\
 - Learn paper embeddings:Data can be downloaded at: https://dblp.uni-trier.de/  and https://www.aminer.cn/citation \
 - Save  the data in SPECTER/data
+-  For more details how to  the pretrained model find readme file in SPECTER/Codes 
  
 #**3. IRGAN Model**
 #
