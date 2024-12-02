@@ -1,16 +1,10 @@
 # KGE-GAN
-#1.MRotatE Embedding
+#**1.MRotatE Embedding**
 
 #
 Knowledge Graph Embedding by Relational and Entity Rotation
 
 **Implemented features**
-
-Models:
- - [x] MRotatE
-
-
-
 Loss Function:
 
  - [x] Uniform Negative Sampling
@@ -74,13 +68,13 @@ The python libarary is organized around 3 objects:
 The run.py file contains the main function, which parses arguments, reads data, initilize the model and provides the training loop.
 
 
-#2.SPECTER  Embedding
+#**2.SPECTER  Embedding**
 #
 -Use the pretrained model available at : https://github.com/allenai/specter    \
  Requirement: pip install --upgrade transformers==4.2\
 -Learn paper embeddings:Data can be downloaded at: https://dblp.uni-trier.de/  and https://www.aminer.cn/citation
  
-#3. IRGAN model
+#**3. IRGAN Model**
 #
 
 
