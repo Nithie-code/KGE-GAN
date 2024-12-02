@@ -9,9 +9,7 @@ Knowledge Graph Embedding by Relational and Entity Rotation
 Models:
  - [x] MRotatE
 
-Evaluation Metrics:
 
- - [x] MRR, MR, HITS@1, HITS@3, HITS@10 (filtered)
 
 Loss Function:
 
@@ -88,7 +86,7 @@ The run.py file contains the main function, which parses arguments, reads data, 
 
 
 
-Evaluation Metrics:
+**Evaluation Metrics**
 
  - [x] MRR, MAP, nDCG, Recall
 
