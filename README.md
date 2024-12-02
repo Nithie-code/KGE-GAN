@@ -87,3 +87,9 @@ The run.py file contains the main function, which parses arguments, reads data, 
 
 
 
+
+Evaluation Metrics:
+
+ - [x] MRR, MAP, nDCG, Recall
+
+
