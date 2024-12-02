@@ -62,9 +62,9 @@ The run.py file contains the main function, which parses arguments, reads data, 
 
 #**2.SPECTER  Embedding**
 #
--Use the pretrained model available at : https://github.com/allenai/specter    \
+- Use the pretrained model available at : https://github.com/allenai/specter    \
  Requirement: pip install --upgrade transformers==4.2\
--Learn paper embeddings:Data can be downloaded at: https://dblp.uni-trier.de/  and https://www.aminer.cn/citation
+- Learn paper embeddings:Data can be downloaded at: https://dblp.uni-trier.de/  and https://www.aminer.cn/citation
  
 #**3. IRGAN Model**
 #
