@@ -45,7 +45,7 @@ CUDA_VISIBLE_DEVICES=0 python -u codes/run.py --do_train \
 
 The run.sh script provides an easy way to search hyper-parameters:
 
-    bash run.sh train MRotatE FB15k 0 0 512 256 1000 24.0 1.0 0.0001 50000 8 -te
+    bash run.sh train MRotatE train.txt 0 0 512 256 1000 24.0 1.0 0.0001 50000 8 -te
 
 
 
@@ -74,6 +74,10 @@ The run.py file contains the main function, which parses arguments, reads data, 
 - For more about paper  recommendations, find readme in IRGAN folder
 
 **Vizualizations**
+- *LearningRate.ipynb*:
+- *epoch.ipynb*:
+- *recall.ipynb*:
+- *FineTune_beta.ipynb*:
 
 
 
