@@ -4,7 +4,7 @@ Official mplementation for our paper [Improved paper recommendation model incorp
 
 \
 <img src="ModelFramework.png" width="804px" height="380px"/>
-
+ 
 #**1.MRotatE Embedding**
 
 #
