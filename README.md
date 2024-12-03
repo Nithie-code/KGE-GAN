@@ -75,7 +75,7 @@ The run.py file contains the main function, which parses arguments, reads data, 
 #
 - Use the pretrained model available at : https://github.com/allenai/specter    \
  Requirement: pip install --upgrade transformers==4.2     
-- Learn paper embeddings: Data can be downloaded at: https://dblp.uni-trier.de/  and https://www.aminer.cn/citation \
+- Learn paper embeddings: Data can be downloaded at: https://dblp.uni-trier.de/  and https://www.aminer.cn/citation 
 - Save  the data in SPECTER/data
 -  For more details how to use  the pretrained model find readme file in SPECTER/Codes 
  
