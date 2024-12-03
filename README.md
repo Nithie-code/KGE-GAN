@@ -1,13 +1,14 @@
 # KGE-GAN
 
-This is the official implementation for our paper [Improved paper recommendation model incorporating  knowledge graph embedding with IRGAN model](https://To be inserted) by [Nimbeshaho Thierry](https://scholar.google.com/citations?user=eJ2WT9UAAAAJ&hl=en), [Ingabire Batamira Christ Chatelain](https://scholar.google.com/citations?hl=en&user=taiWWHMAAAAJ), [Zafar Ali](https://scholar.google.com/citations?user=cgBnRTcAAAAJ&hl=en), [Pavlos Kefalas](https://scholar.google.com/citations?hl=en&user=QaBjHzQAAAAJ&view_op=list_works&sortby=pubdate).
+This is the official implementation for our paper [Improved paper recommendation model incorporating  knowledge graph embedding with IRGAN model](https://TO BE INSERTED) by [Nimbeshaho Thierry](https://scholar.google.com/citations?user=eJ2WT9UAAAAJ&hl=en), [Ingabire Batamira Christ Chatelain](https://scholar.google.com/citations?hl=en&user=taiWWHMAAAAJ), [Zafar Ali](https://scholar.google.com/citations?user=cgBnRTcAAAAJ&hl=en), [Pavlos Kefalas](https://scholar.google.com/citations?hl=en&user=QaBjHzQAAAAJ&view_op=list_works&sortby=pubdate).
 
 \
 <img src="ModelFramework.png" width="804px" height="390px"/>
 
 \
-        **Figure: Model Architecture**
+        **Figure 1: Model Architecture**
           ****
+          \
 #**1.MRotatE Embedding**
 
 #
@@ -85,8 +86,8 @@ The run.py file contains the main function, which parses arguments, reads data, 
 **Vizualizations**
 - *LearningRate.ipynb*: creates the step size at each iteration while moving toward a minimum of the loss function.
 - *epoch.ipynb*: creates plots to depict epochs with respect to nDCG to show peak performance.
-- *recall.ipynb*:
-- *FineTune_beta.ipynb*:
+- *recall.ipynb*: generates plots to exhibit the stability and robustness of the proposed model's results.
+- *FineTune_beta.ipynb*:  generates a  plot  to depicts how we fine-tuned the equilibrium parameter beta during model training.
 
 
 
