@@ -1,4 +1,8 @@
 # KGE-GAN
+
+Official mplementation for our paper [Improved paper recommendation model incorporating  knowledge graph embedding with IRGAN model](https://To be inserted) by [Nimbeshaho Thierry](https://scholar.google.com/citations?user=eJ2WT9UAAAAJ&hl=en), [Ingabire Batamira Christ Chatelain](https://To be inserted), [Zafar Ali](https://scholar.google.com/citations?user=cgBnRTcAAAAJ&hl=en), [Pavlos Kefalas](https://scholar.google.com/citations?hl=en&user=QaBjHzQAAAAJ&view_op=list_works&sortby=pubdate).
+<img src="framework.png" width="804px" height="380px"/>
+
 #**1.MRotatE Embedding**
 
 #
