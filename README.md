@@ -7,7 +7,8 @@ This is the official implementation for our paper [Improved paper recommendation
 
 \
         **Figure 1: Model Architecture**
-          ****
+          \
+          \
           \
 #**1.MRotatE Embedding**
 
