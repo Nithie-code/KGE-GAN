@@ -88,7 +88,7 @@ The run.py file contains the main function, which parses arguments, reads data, 
 - *LearningRate.ipynb*: creates the step size at each iteration while moving toward a minimum of the loss function.
 - *epoch.ipynb*: creates plots to depict epochs with respect to nDCG to show peak performance.
 - *recall.ipynb*: generates plots to exhibit the stability and robustness of the proposed model's results.
-- *FineTune_beta.ipynb*:  generates a  plot  to depicts how we fine-tuned the equilibrium parameter beta during model training.
+- *FineTune_beta.ipynb*:  generates a  plot  to depict how we fine-tuned the equilibrium parameter beta during model training.
 
 
 
